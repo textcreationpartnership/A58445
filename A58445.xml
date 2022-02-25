@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the horrid injuries committed by the King of Sweden, upon the Duke of Curland his dutches, and seven children. Together with the Dukes vindication from the Swedish calumnies.</title>
+            <title>Defensio Principis Curlandiæ Suecorum calumnis opposita.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58445</idno>
+            <idno type="STC">Wing R837A</idno>
+            <idno type="STC">ESTC R217978</idno>
+            <idno type="EEBO-CITATION">99829609</idno>
+            <idno type="PROQUEST">99829609</idno>
+            <idno type="VID">34050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34050)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1998:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the horrid injuries committed by the King of Sweden, upon the Duke of Curland his dutches, and seven children. Together with the Dukes vindication from the Swedish calumnies.</title>
+                  <title>Defensio Principis Curlandiæ Suecorum calumnis opposita.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Simon Miller at the Star in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First published in 1658 as: Defensio Principis Curlandiæ Suecorum calumniis opposita. Or, A vindication of the Duke of Curland against the Swedish calumnies.</note>
+                  <note>Parallel Latin and English texts.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Duke of Courland --  Early works to 1800.</term>
+               <term>Dano-Swedish Wars, 1657-1660 --  Early works to 1800.</term>
+               <term>Sweden --  History --  Charles X Gustavus, 1654-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34050:1" rendition="simple:additions"/>
+            <p>A RELATION OF THE HORRID INJURIES <hi>COMMITTED BY</hi> The KING of <hi>SWEDEN,</hi> UPON The DUKE of <hi>C<g ref="char:V">Ʋ</g>RLAND,</hi> His DUTCHES, and ſeven CHILDREN.</p>
+            <p>Together with the <hi>Dukes</hi> Vindica<g ref="char:EOLhyphen"/>tion from the Swediſh Calumnies.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <head>S M</head>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Simon Miller</hi> at the Star in <hi>Pauls</hi> Church-yard, 1659.</p>
+            <pb facs="tcp:34050:2" rendition="simple:additions"/>
+            <pb facs="tcp:34050:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="document">
+               <div xml:lang="lat" type="version">
+                  <pb n="2" facs="tcp:34050:3" rendition="simple:additions"/>
+                  <head>DEFENSIO Principis CURLANDIAE Suevorum Calumniis oppoſita.</head>
+                  <p>POſt ruptas in Polonia inducias, pacem verò cum Danis vix citius initam quam fractam; poſt Tran<g ref="char:EOLhyphen"/>ſilvaniae Principem inter hoſtes, contra fidem da<g ref="char:EOLhyphen"/>tam, deſtitutum; post temerata denique ubivis locorum Divina, humanaque Jura, nemini forté novum aut mi<g ref="char:EOLhyphen"/>rum videbitur, juſſu Regis Sueciae, Principem Curlandiae, licet Medii ſen Neutralis in hoc bella conditionem iden<g ref="char:EOLhyphen"/>tidem pactus erat, &amp; ſaepius magnâ argenti vi redeme<g ref="char:EOLhyphen"/>rat, in Domo ſuâ per inſidias captum, barbaricum in mo<g ref="char:EOLhyphen"/>dum cum Uxore, ſeptemque liberis, Rigam abductum eſſe.</p>
+                  <p>Caeterum quoniam ea in pacatum Principem admiſſa, quae nec in hoſte locum haberent, in Matronam inſigni pietate praeclariſque Virtutibus ſummum inter foeminas locum mo<g ref="char:EOLhyphen"/>rentem, niſi nativitas dediſſet, eamque partui vicinam; in liberos Principales, pleroſque infantes, atque aetate, ut Parentes, vitâ innocentiſsimos, deſignata ſunt: ipſis haec Suecis talia ſunt viſa, ut non ſine excuſatione aut defen<g ref="char:EOLhyphen"/>ſione Orbique patefieri deberent: Sed quae Dei benignitas atque Juſtitia eſt, vix alii innocentiam Optimorum Prin<g ref="char:EOLhyphen"/>cipum illuſtriorem reddunt, quàm qui vel maximé op<g ref="char:EOLhyphen"/>pugnant.</p>
+                  <p>Dicunt equidem quod libet qui cauſam hanc agunt, &amp; tamen apparet ſummo ſtudio nihil fingi potuiſſe, quo tanta rei indignitas vel excuſaretur. Fac vera eſſe quae com<g ref="char:EOLhyphen"/>menti
+<pb n="4" facs="tcp:34050:4"/>ſunt in hác cauſâ omnia; fac fides habeatur praetex<g ref="char:EOLhyphen"/>tibus, quae veritati debetur; nihil hic invenies, quod in<g ref="char:EOLhyphen"/>nocentiae Principium praejudicare, aut Suecorum facto vel minimum Juſtitiae affricare poſset colorem. Nimirum jungi poteſt juſtitiae maledicentia, nec tamen haec malos reddere poteſt, aut reos, quos illa miſeros effecit.</p>
+                  <p>Quod ipſum patebit audienti hos Oratores, qui cauſam hanc dum defendunt, produnt. Caput accuſationis eſt, Uxorem Principis ſuaſiſſe Fratri ſuo Electori Branden<g ref="char:EOLhyphen"/>burgico, ut cum Poloniae Rege, cujus olim vaſallus ipſe fuerat, maritus autem adhuc erat, in gratiam rediret. Adeò nec dicta nec conſilia familiarium impunia ſunt, &amp; illa quidem Uxoris, in caput Mariti expetunt, atque hic luat neceſſe eſt, quae illa admiſit. Crodo, his arbitris, meritò pro hoſte habendum, cujus Uxor alibi, ipſo ab<g ref="char:EOLhyphen"/>ſente &amp; inſcio, pacis conſilia, inter cognatos, quibuſque amorem atque reverentiam debebat, commendavit. Sci<g ref="char:EOLhyphen"/>licet quam à De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> continuis precibus ipſis efflagitare, pi<g ref="char:EOLhyphen"/>um fuerat, crimen fuiſſet ſuadere. Sed nihil eam hic egiſſe, ſi Electori Sancté hoc aſſerenti non creditur, cre<g ref="char:EOLhyphen"/>dere ipſis rerum argumentis neceſſe eſt. Involverat il<g ref="char:EOLhyphen"/>lum Rex Sueciae bello Polonico; gliſcebat mox Danicum, &amp; ſucceſsit. Autor Regi fuit Elector, ut, quod proclive ipſi erat, &amp; glorioſam ſibi ut, &amp; utilem cum Polonis iniret pacem, Danicos verò motus aequis averteret conditio<g ref="char:EOLhyphen"/>nibus; ſed fruſtrà fuit, ad eum gloriae campum quaſi re<g ref="char:EOLhyphen"/>miſſus eò ampliorem, quò pluribus inſideretur hostibus. Ergo Rex in Holſatiam movet, &amp; foederatos, Electo<g ref="char:EOLhyphen"/>rem, Tranſilvanum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> hoſtibas tantum non obrutos de<g ref="char:EOLhyphen"/>ſerit. Exuitur hic Exercitu, &amp; adhuc periculum eſt, ut Principatu fortuniſque excidat omnibus. Expug<g ref="char:EOLhyphen"/>natur Cracovia, occurrunt imminentque Electori Ex<g ref="char:EOLhyphen"/>ercitus Polonici, Auxiliareſque Auſtriaci atque Coſaci; à Suecis Suppetiae nullae. Hîc Electorem nec mala, nec
+<pb n="6" facs="tcp:34050:5"/>pericula, nec remedia praevidere potuiſſe putabimus? &amp; (quod unicum reſtabat) pacem eum Polonis non con<g ref="char:EOLhyphen"/>feciſse, niſi Soror ſubmonuerit? Judicet qui velit, ec<g ref="char:EOLhyphen"/>quis Electori illam perſuaſerit, &amp; an non à Rege Suecia Ipſo proficiſcatur, quod Optimae Principi tanquam crimen reputant?</p>
+                  <p>Sed interceſsit Principi, inquiunt, familiaritas inſig<g ref="char:EOLhyphen"/>nis cum Gonzievio, &amp; litteris hinc inde meantibus, quas partim Principis Miniſtros ſcripſiſse perhibent, effectum, ut Anno <hi>1656.</hi> Lithuanis eorumque vicinis Copiae Sueciae, quae illic locorum erant, in manus quaſi trade<g ref="char:EOLhyphen"/>rentur. Cum Gonſievio Principi agendum erat, tan<g ref="char:EOLhyphen"/>quam cum vicino amico, Regis ſui Miniſtro, &amp; egit; ita tamen, ut conditionis ſuae memor eſſet, &amp; obſervan<g ref="char:EOLhyphen"/>tiae erga Dominum, &amp; Neutralitatis, quam vocant, Le<g ref="char:EOLhyphen"/>ges integrae ſemper ſibi constarent. Nec unquam produci poſſunt literae Principis, aut Ipſo indignae, aut rerum ſtatui, quem diximus parum convenientes: quid ege<g ref="char:EOLhyphen"/>rint ſcripſerintque Miniſtri, viderint ipſi, Principis hic nulla eſt culpa. Caeterùm cum Sueci Lithuanos &amp; Samogitas peſsimè haberent, &amp; diſperſi interim ſecuri<g ref="char:EOLhyphen"/>que inter eos agerent, an, quod immaniſſima facta ex<g ref="char:EOLhyphen"/>torſerunt, ad quod opportunitas invitavit, ſtatui in Sue<g ref="char:EOLhyphen"/>cos non potuit niſi Autore Curlandioe Duce? Nec hoſtes ſuos Lithuani cernere poterant focis aſsidentes, lateribuſ<g ref="char:EOLhyphen"/>que haerentes, niſi Curlandioe Duce ex longinquo demon<g ref="char:EOLhyphen"/>ſtrante?</p>
+                  <p>Imputatur praeterea, quod Magno Muſcoviae Duci con<g ref="char:EOLhyphen"/>ſilia &amp; rationes capiendae Rigae unà cum commeatu ſup<g ref="char:EOLhyphen"/>peditarit Princeps Curlandiae, idque egerit, ut Sereniſ<g ref="char:EOLhyphen"/>ſimi Angliae, <hi>&amp;c.</hi> Protectoris ſtudium pacis inter Muſcos &amp; Suecos conficiendae à Moſchis repudiaretur, quod ſini<g ref="char:EOLhyphen"/>ſtras de Suecis opiniones Legato Anglico inſinuaverit, de<g ref="char:EOLhyphen"/>nique quod Polonis Moſchos conciliare, hos verò Suecis
+<pb n="8" facs="tcp:34050:6"/>infenſiores-reddere anniſus: atque in eo fuerit ut Sere<g ref="char:EOLhyphen"/>niſſimo Electori Brandenburgico trium millium ſuppetias mitteret.</p>
+                  <p>Utinam verò, ut ab ultimis ordiamur, tot habuiſſet Dux milites, atque abduci potuiſſet amicorum monitis, ut hac viâ ſecuritati ſuae proſpiceret; non tam opportunus Suecorum injuriis fuiſſet, &amp; haberet forſan optimus Prin<g ref="char:EOLhyphen"/>ceps Domum ſuam bonaque omnia intacta. Nunc fiducia pollicitationum regiarum unicé ſecuro, milite deſtituto, cum militum copia adhuc objiciatur, vix acerbiùs candori ac innocentiae illudi poſſet atque inſultari. Conſilia autem ut ſuggereret Magno Muſcoviae Duci nunquam Ipſi oppor<g ref="char:EOLhyphen"/>tunitas fuit, nec ut quicquam perſuaderet authoritas. Commeatum ſi Moſchi exegerunt, exegerunt &amp; Sueci &amp; Poloni. Damnum paſſus ab omnibus, injuriam nemini fecit. Infortunium illud miſeratione dignum, culpae adnumerandum non fuerat.</p>
+                  <p>Pacem inter Moſchos, Polonos, Suecos, omneſque de<g ref="char:EOLhyphen"/>nique Vicinos optavit amantiſsimus pacis Princeps, &amp; cujus eam confieri intererat, ſi promovere non potuit, nullibi certe turbavit. Populos cum Populis committere non Illius ſunt artes; qui tranquillitatem ſibi ſuam non niſi Vicinorum omnium concordiâ conſtare intelligit: cujus omnes ex aequo obſervare, &amp; humanitate cum ſin<g ref="char:EOLhyphen"/>gulis decertare, non armis. Hoc verò ſtudium, hanc mentem Principi fuiſſe Ipſe Anglicus teſtabitur Legatus, quem, quibus potuit humanitatis officiis, per aliquot menſes Princeps proſequutus eſt, &amp; comitèr habuit, non modo quòd peregrinus aut quia ab amico, ſed comprimis quod pacis interpres venerat. Atqui ille ipſe, inqui<g ref="char:EOLhyphen"/>unt, peſsimis quibuſque de Suecis opinionibus in Cur<g ref="char:EOLhyphen"/>landia imbutus eſt. Nimirum quae conſcientia vera ar<g ref="char:EOLhyphen"/>guit, etiam dicta creduntur. Sed ſi Suecis quibuſdam mala mens, oportetnè propterea Curlandiae Principios im<g ref="char:EOLhyphen"/>purum
+<pb n="10" facs="tcp:34050:7"/>atque maledicum eſſe? Sed regrediamur unde di<g ref="char:EOLhyphen"/>greſsi ſumus.</p>
+                  <p>Pone haec ita ſe habere, cum tamen Sereniſsima Prin<g ref="char:EOLhyphen"/>ceps in litteris ad Electorem Brandenburgicum Fratrem ſuum Deo teſte affirmet, causâ in conſcientiae Tribunali dictâ, nullam ſe deprehendere poſſe in ſe ſuiſque culpam, niſi quod, cum nihil mali patraſſent, nihil mali metue<g ref="char:EOLhyphen"/>rent, nimiumque confiſi eſſent Chriſtianiſmum &amp; Evan<g ref="char:EOLhyphen"/>gelicam Doctrinam profeſsis.</p>
+                  <p>Largiamur autem hoc hoſtibus, Principes, pactorum obſervantiſsimos, &amp; quos ſua pietas, probitas atque con<g ref="char:EOLhyphen"/>ditio facilé abſolvit, &amp; iſta quae objiciunt illi, &amp; gra<g ref="char:EOLhyphen"/>viora, ſi placet, commiſiſſe; Poſtquam novis cum Sue<g ref="char:EOLhyphen"/>cici Exercitus Praefecto, Vetera Neutralitatis pacta con<g ref="char:EOLhyphen"/>firmata, non ſine coagulo amicitiae, quo opus eſt cum iſto hominum genere, tranſigentibus, pecuniâ ſcilicet prae<g ref="char:EOLhyphen"/>ſentaneá, oegré a Principe confectâ, &amp; vero paucae ad<g ref="char:EOLhyphen"/>modum horae inter conventionem hanc initam, &amp; eru<g ref="char:EOLhyphen"/>ptionem in Arcem Principis factam interceſſerunt, atque adeo Sueci omne crimen, quod in Principe vel fingi poſ<g ref="char:EOLhyphen"/>ſet, ſive dederunt, ſive occuparunt ipſi, nullius Eum accuſari poſſe, nemo deinceps dubitaverit. Alia igitur omnino ſint neceſſe eſt, quae ad hoc triſte malum Domui Curlandiae acc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lerandum, Regem Sueciae impulerint. Et ſunt qui putant aegrè Illum Electori Brandenburgico fa<g ref="char:EOLhyphen"/>cere voluiſse, quod cum armis validum, nec fraudibus opportunum amplius invadere non potuerit, inermes in<g ref="char:EOLhyphen"/>vaſerit. Dolei equidem Elector triſtem ſuorum caſum, &amp; dolent optim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quique; ſed ſolatur Ipſum Eorundem innocentia juxta ac Divina Justitia, quae &amp; coronare illam proſperrimo etiam malorum eventu, hoſtes verò Ipſius ita habere ſolet, ut ubique &amp; benignum Patrem &amp; ſeverum ſe oſtendat Judicem. Novit talia patrantes hòc citiùs Vindictam provocare Divinam, eamque acri<g ref="char:EOLhyphen"/>orem,
+<pb n="12" facs="tcp:34050:8"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> innocentiorts laeſerint.</p>
+                  <p>Alis ſitum Curlandiae Mari Balthico imminentis illius Dominium affect anti ſalivam moviſſe putant; Coeterum cum acceſsio vineae Nabothi res Achabi parum auxerit, optimi qui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> expectant, quis Regni non unius affectati, Principatus non unius erepti tandem finis exituſque futurus. Et vidimus jam Juſtitiae Divinae non tardan<g ref="char:EOLhyphen"/>tis argumentum. Nam cum <hi>28</hi> die <hi>Octobris</hi> Principes Curlandiae in cavtivitatem abducerentur, luce quae ſe<g ref="char:EOLhyphen"/>cuta eſt, proximâ, paucae foederati Belgii Naves, (ple<g ref="char:EOLhyphen"/>raeque enim in conflictu non fuêre) Suecis quibuſdamexuſtis, quibuſdam captis, nonnullis ſubmerſis, effecerunt, ut Haffniae obſtdio ſolveretur, &amp; Orbis videret Illos, qui, cum Maris Do<g ref="char:EOLhyphen"/>minium jactent, miniman ejus partem, fretum dico Da<g ref="char:EOLhyphen"/>nicum, licet Caſtella utrique imminentia littori inſide<g ref="char:EOLhyphen"/>rent, defendere non potuerunt: ſcilicet, qui in Daniá Liberatorem ſe atque innocentiae Vindicem probavit, ho<g ref="char:EOLhyphen"/>ſtiumque ſuperbiam fregit, idem &amp; aliis ſub idem tempus Injuriam paſsis, praeterque meritum afflictis aderit, ſine dubio, ſine morâ: Illi ſit laus &amp; gloria in ſaeculis, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <pb n="3" facs="tcp:34050:3"/>
+                  <head>A VINDICATION Of the Duke of <hi>Curland</hi> againſt the Swediſh Calumnies.</head>
+                  <p>AFter the Violation of the Polonion Truce, breaking of the newly Concluded Peace with <hi>Donmarck,</hi> deſtitution of the <hi>Tranſilvanian</hi> Prince, in the midſt of his Ene<g ref="char:EOLhyphen"/>mies, contrary to Engagement; yea, after the U<g ref="char:EOLhyphen"/>niverſal prophanation and contempt of Divine and Humane Lawes every where: No body (likely) will think it any great wonder or novelty, that by Command of the ſame King of <hi>Sweden,</hi> the illuſtrious Duke of <hi>Curland</hi> (notwithſtanding his Highneſſe had in the beginning of the late Poliſh War, agreed upon a perpetual Neutrality, and ſince was forc't oft-times to redeem and buy the ſame again with a vaſt Treaſure,) was per<g ref="char:EOLhyphen"/>fidiouſly ſurprized in his own Caſtle, and in a moſt barbarous manner (together with his Dutcheſſe and ſeven Infant-Children) carried away captive to <hi>Riga.</hi>
+                  </p>
+                  <p>Mor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>over, Whereas ſuch things were committed againſt a Peaceable Prince, which would not have place in an Enemy: Againſt a Princeſſe, (who for her unparallel'd Piety, and moſt illuſtrious Vertues, (to ſay nothing of her Birth) may juſtly claim the the higheſt place among Women) drawing near the time of her Delivery: Yea, againſt his Princely Children, al<g ref="char:EOLhyphen"/>moſt all Infants, and moſt innocent in their age, as their Pa<g ref="char:EOLhyphen"/>rents in their lives. It ſeemes they have appeared to the <hi>Swedes</hi> themſelves, to be of that nature, as that they ought not to be publiſhed to the world, without ſome kinde of excuſation or defence: But ſuch is the infinite Benignity and Juſtice of our God, that hardly any other could have demonſtrated mani<g ref="char:EOLhyphen"/>feſted more brighter, the ſpotleſſe Innocence of theſe beſt of Princes, then the moſt unjuſt oppoſers of the ſame.</p>
+                  <pb n="5" facs="tcp:34050:4"/>
+                  <p>Thoſe who patrocinate this cauſe ſpeak (indeed) their full, pleaſure, and yet it appears, that with all their ſtudy and In<g ref="char:EOLhyphen"/>duſtry, they have been uncapable to forge any thing, whereby ſo great an indignity might be rendred in the leaſt excuſable. Suppoſe all their manifeſt forgeries in this buſineſſe to be true, and attribute that Faith (which is due to the truth) to their frivolous pretences, yet you will find nothing at all in them, that either can be any waies prejudicous to the Innocency of the Duke and Dutcheſſe, or yet give any the leaſt colour of Juſtice to that inhumane action of the <hi>Swedes.</hi> Beſides, to the ſaid notori<g ref="char:EOLhyphen"/>ous injuſtice, may be alſo added the ſlanderous aſperſions, which yet will not be able to render thoſe either bad or guilty, whom they have made miſerable.</p>
+                  <p>And this will clearly appear, to him that hears theſe Ora<g ref="char:EOLhyphen"/>tors ſpeak, who ſtriving to defend this cauſe, do betray the ſame. The head of the Accuſation, is, That the <hi>Duke</hi>'s <hi>Lady,</hi> did perſwade her Brother, the <hi>Prince Elector of Brandenborgh,</hi> to reconcile himſelf to the <hi>King</hi> of <hi>Poland</hi>'s Majeſty, whoſe vaſſall he had eretimes been, and to whom he ſtill ſtood engaged. Af<g ref="char:EOLhyphen"/>ter this rate, neither the words nor counſels of familiar friends are unpuniſhable; yea, even thoſe of a Wife, would exact the head of her Husband, and he were to ſuffer for what ſhe com<g ref="char:EOLhyphen"/>mited. I believe that (according to the Opinion of theſe Arbi<g ref="char:EOLhyphen"/>trators) that man may lawfully be termed an enemy, whoſe Wife in his abſence, and unknown to him, hath otherwhere made good overtures for, and endeavoured the Recommendation of Peace betwixt her neareſt Friends and Kinred, to whom ſhe ow<g ref="char:EOLhyphen"/>ed love and reverence; and that it is a crime to counſell or re<g ref="char:EOLhyphen"/>commend Peace, when it is godly and moſt commendable, by inceſſant fervent Prayers to beg the ſame of God. But, that the ſaid Princeſſe did nothing of this nature (if we will not believe the <hi>Prince Elector,</hi> religiouſly aſſerting the ſame) yet muſt we give credit to the Arguments of the matter it ſelf. The King of <hi>Sweden</hi> having involved the ſaid <hi>Elector</hi> in the <hi>Polonian</hi> War, and the <hi>Daniſh</hi> ſuddainly creeping in thereupon, and ſucceeding; his Electoral Highneſſe adviſed the ſaid King to make up (as he eaſily might) a Peace both glorious and profitable for himſelf, with the <hi>Poles,</hi> and to divert the <hi>Daniſh</hi> motions with equitable Conditions, but all in vain; the ſaid <hi>Elector</hi> being (as it were)
+<pb n="7" facs="tcp:34050:5"/>ſent back by the King with deriſion, to that height of glory held ſo much more ample and illuſtrious, by how much more enemies he was ſurrounded; and ſo the King moves towards <hi>Holſtein,</hi> deſerting his Confederates the Elector, and <hi>Traſilvanian</hi> Prince, even in a manner overwhelmed by the Enemy. Whereupon he of <hi>Tranſilvania,</hi> ſhortly after was deprived of his Army, and to this hour, runs hazard of the totall loſſe of his Country and Fortunes; the City of <hi>Cracovia</hi> was recovered; and the <hi>Prince Elector</hi> immediately <hi>(quaſi)</hi> ſurrendred by the threatning for<g ref="char:EOLhyphen"/>midable Armies of the Confederate <hi>Poles, Auſtrians,</hi> and <hi>Coſ<g ref="char:EOLhyphen"/>ſacks,</hi> being altogether left deſtitute of the leaſt hopes of ſuccour from the <hi>Swedes.</hi> And can we think that all this while, the ſaid <hi>P. Elector</hi> could foreſee neither Evils, nor Perils, nor Remedies? And that (which only was remaining) he could not have had thoughts of a Peace with the <hi>Poles,</hi> without the Admonition of his Siſter? Judge whomſoever, who it was that perſwaded the <hi>Elector</hi> thereunto, and whether it proceeds not from the King of <hi>Sweden</hi> himſelf, what is as a Crime imputed unto our moſt Vertuous Princeſſe.</p>
+                  <p>But (they ſay) the <hi>Duke</hi> kept great intimacy with <hi>Gonzie<g ref="char:EOLhyphen"/>usky,</hi> and, that by interchangeable Letters (which partly they aſſert to have been written by the <hi>Duke</hi>'s Miniſters) it hath been brought to paſſe, that in the Year 1656. the <hi>Swediſh</hi> For<g ref="char:EOLhyphen"/>ces in thoſe parts, were (in a manner) betrayed into the hands of the <hi>Lithuanians</hi> and their Neighbours. The <hi>Duke</hi> was forced to (and did indeed) Treat with <hi>Gonzieusky,</hi> as with a Neigh<g ref="char:EOLhyphen"/>bouring Friend, and the Miniſters of his King; yet ſo, as that he was altogether mindfull of his Condition, and how much it behooved him Sacredly and Inviolably to preſerve no leſſe the Laws of Neutrality, then the reſpect due to his <hi>Lord.</hi> Nor can ever any Letters of the <hi>Duke</hi> be produced, either unwor<g ref="char:EOLhyphen"/>thy of himſelf, or in the leaſt contrarying the premiſed State of affairs; what the Miniſters have either done or written, they themſelves muſt anſwer, the <hi>Prince</hi> for his part, is herein moſt innocent. Moreover, when the <hi>Swedes</hi> moſt baſely trea<g ref="char:EOLhyphen"/>ted the <hi>Lithuanians</hi> and <hi>Samogitians,</hi> and yet in the mean time, were ſecurely and confuſedly diſperſed among them, could not that, which their moſt horrid actions did extorte from, and whereunto the faireſt opportunity invited the ſaid <hi>Lithuanians,</hi>
+                     <pb n="9" facs="tcp:34050:6"/>be executed upon the <hi>Swedes,</hi> but by Inſtinction of the <hi>Duke</hi> of <hi>Curland?</hi> And could not they ſee their Enemies, when ſit<g ref="char:EOLhyphen"/>ting at their fire ſides, and hanging upon their very backs, ex<g ref="char:EOLhyphen"/>cept the <hi>Duke</hi> of <hi>Curland</hi> had afar off pointed at them?</p>
+                  <p>It is further imputed, that the <hi>Duke</hi> did give Counſell and Directions to the great <hi>Duke</hi> of <hi>Muſcovy,</hi> for the taking of <hi>Riga</hi> together with Supplies for his Army; as alſo, that he did effect (or cauſe) that his moſt Serene Highneſſe the <hi>Lord Protector</hi>'s <hi>of England,</hi> &amp;c. endeavoures for Peace betwixt the <hi>Muſcovites</hi> and <hi>Swedes,</hi> were rejected by the ſaid <hi>Muſcovites:</hi> That he did inſinuate ſiniſter Opinions of the <hi>Swedes</hi> to the Ambaſſadour of <hi>England:</hi> And laſtly, that he did endeavour to reconcile the <hi>Poles</hi> and <hi>Muſcovites,</hi> but to render theſe more incenſed againſt the <hi>Swedes;</hi> yea, that he was upon it, to have ſent a ſuccour of 3000 men of his own, to the moſt Serene <hi>Prince Elector</hi> of <hi>Brandenburgh.</hi>
+                  </p>
+                  <p>It were to be wiſhed (to begin with the laſt) that the <hi>Duke</hi> had had ſuch a number of Forces, and could have been induc'd and diſpoſed by all the ſeaſonable Admonitions of his Friends, to have provided for his own ſecurity that way; he would not then have been ſo lyable and obnoxious to the <hi>Swediſh</hi> injuries, but perhaps (Good Prince) have preſerved his Houſe and E<g ref="char:EOLhyphen"/>ſtate intire and ſafe to this hour: whereas now, Integrity and In<g ref="char:EOLhyphen"/>nocency could hardly be more cruelly eluded and inſulted over, then to object a numerous Power of Forces to him, who, ſecurely relying upon, and only confiding in the Royal Promiſes, was alto<g ref="char:EOLhyphen"/>gether deſtitute of Souldiers. As for his (pretended) ſug<g ref="char:EOLhyphen"/>geſted Counſels to the great <hi>Duke,</hi> he neither ever had oppor<g ref="char:EOLhyphen"/>tunity thereunto, nor yet authority to perſwade any thing. If the <hi>Muſcovites</hi> exacted paſſage and free quarters, the <hi>Swedes</hi> and <hi>Poles</hi> exacted no leſſe; he ſuffered Dammage by all, but did Injury to none. This misfortune had been more worthy of pitty then of puniſhment.</p>
+                  <p>A Peace betwixt the <hi>Muſcovites, Poles, Swedes,</hi> and all other his Neighbours, the Prince (as a moſt perfect Peace Lover) did cordially wiſh, and being ſo much concerned in the confecti<g ref="char:EOLhyphen"/>on of the ſame, if he could not promote; yet leaſtwiſe, he was farre from (any where) perturbing or obſtructing it. To ſtir up Nation againſt Nation, are not his Practiſes, who under<g ref="char:EOLhyphen"/>ſtands
+<pb n="11" facs="tcp:34050:7"/>his own Tranquility and Preſervation to depend only from his Neighbours generall Concordance and Unanimity, and whom it behooves to give equall reſpect to all, and rather to winne the heart of every one with Civility, then by force of Armes. Now, that this hath been the reall mind and endeavours of the <hi>Duke,</hi> the Engliſh Ambaſſadour himſelf, cannot but wit<g ref="char:EOLhyphen"/>neſſe, whom the <hi>Duke</hi> did proſecute with all poſſible demon<g ref="char:EOLhyphen"/>ſtrations of Civility, and entertained moſt lovingly for many Moneths together, not only for being a ſtranger, or the Miniſter of a potent Friend, but chiefly for coming as a Peace-Maker. But he, himſelf (they ſay) was poſſeſt with moſt finiſtrous Opini<g ref="char:EOLhyphen"/>ons of the <hi>Swedes</hi> in <hi>Curland;</hi> as if, what Conſcience doth but argue to be true, muſt be granted to be ſpoken alſo. But if any of the <hi>Swedes</hi> have an ill heart, muſt it therefore follow that the mouth of the <hi>Duke</hi> of <hi>Curland</hi> is impure and ſlanderous? But let us return from whence we have made a Digreſſion.</p>
+                  <p>Suppoſe all theſe things to be ſo, notwithſtanding that the Serene <hi>Dutcheſſe</hi> in her Letters to the <hi>Prince Elector</hi> her Bro<g ref="char:EOLhyphen"/>ther (taking God to witneſſe, and having pleaded and diſcuſſed the Cauſe, in the Tribunal of her own Conſcience) doth ſacred<g ref="char:EOLhyphen"/>ly affirm, That ſhe cannot find any other fault in her ſelf or hers, but, that having committed no ill, and therefore not fearing a<g ref="char:EOLhyphen"/>ny, they had too much confided in thoſe that make profeſſion of Chriſtianity and Evangelical Religion.</p>
+                  <p>But let us (I ſay) grant this to the enemy, that thoſe Princes (the moſt Religious Obſervers of their Compacts, and whom their very Prety, Godlineſſe, and Condition alone doth eaſily ab<g ref="char:EOLhyphen"/>ſolve) have committed all theſe objected Crimes, and yet more grievous ones, if they pleaſe; yet after that the old agreement of Neutrality was again renewed and confirmed, with the Ge<g ref="char:EOLhyphen"/>nerall of the <hi>Swediſh</hi> Army (not without a cementation of friendſhip, which they that mean to tranſact with ſuch kind of people, muſt ever have ready at hand; I mean ready money, but newly, with much ado, raiſed by the <hi>Duke:</hi>) and (as is ma<g ref="char:EOLhyphen"/>nifeſt) but very few hours interceding betwixt the making of the ſaid Covenant, and immediate enſuing irruption into the Caſtle of the ſaid <hi>Duke;</hi> in as much as the <hi>Swedes</hi> muſt either have taken away, or elſe anticipated themſelves, all the Crimes that can poſſibly be forged againſt his Highneſſe; No man
+<pb n="13" facs="tcp:34050:8"/>(ſurely) can believe, that after all this, the ſaid <hi>Duke</hi> can juſt<g ref="char:EOLhyphen"/>ly be accuſed of any thing. There muſt then be oſher Reaſons which moved and impulſed the King of <hi>Sweden</hi> to accelerate and haſten this deplorable misfortune unto the <hi>Houſe</hi> of <hi>Curland.</hi> And indeed, there are, that think that he did it, to vex and ſpight the <hi>P. Elector</hi> of <hi>Brandenborgh,</hi> in that, when he was not able to invade him (who was now too powerfull in Armes, and more wary of being circumvented then heretofore) he did over<g ref="char:EOLhyphen"/>power the unarmed and uncapable of Reſiſtance. The <hi>P. Elector</hi> indeed, deplores the hard fate of his Friends, and all honeſt hearts condole with them: But their unſpotted innocence doth powerfully mitigate and allay his ſorrow, as alſo the infinite Juſtice of God, which is wont generally to Crown the ſame with a moſt prpſperous iſſue even of the affliction it ſelf; and contrarily to behold the Enemies thereof with ſuch an eye, as doth every where witneſſe him no leſſe a moſt Severe Judge and Avenger, then a tender and gracious Father: He knows that thoſe that commit ſuch enormous Actions, do but ſo much the more ſpeedily provoke, ripen, and <hi>augment</hi> the <hi>juſt vengeance of the Lord,</hi> by how much brighter the Innocence of the oppreſſed party appeares. Others think, that the commodious ſituation of <hi>Curland,</hi> upon the <hi>Baltique,</hi> made the teeth of him, that affects the Dominion thereof, to water. But as the acquiſiti<g ref="char:EOLhyphen"/>on of <hi>Naboth</hi>'s Vineyard yeelded but ſmall increaſe to the E<g ref="char:EOLhyphen"/>ſtate of wicked <hi>Ahab,</hi> ſo alſo all good people, expect to ſee what will be the end and iſſue of the affectation of more then one Kingdom, and violent ereption of more then one Duke<g ref="char:EOLhyphen"/>dome and Principality. And indeed, we have already beheld an eminent ſign of the (not retarding) Juſtice of God, in that, the very next day after the barbarous carrying away of the <hi>Princes</hi> of <hi>Curland</hi> into Captivity, being the 28<hi rend="sup">th</hi> of <hi>October,</hi> a few Ships of the United Neatherland States (the moſt of the Fleet not having been engaged in the fight) did, by the burning of ſome, taking others, and ſinking not a few <hi>Swediſh</hi> Ships, moſt happily effectuate the raiſing of the Seige of <hi>Copenhagen,</hi> and cauſe the world to ſmile in beholding thoſe, that did boaſt the Dominion of the Sea, uncapable (notwithſtanding the two imminent Caſtles upon either ſide of the Shoare) to defend or maintain the moſt inconſiderable part of the ſame,
+<pb n="14" facs="tcp:34050:9"/>
+                     <hi>viz.</hi> the <hi>Daniſh</hi> Sound. And even ſo, we truſt, that the ſame God that hath approved himſelf the gracious <hi>Deliverer</hi> of <hi>Denmark,</hi> and <hi>juſt Avenger</hi> of oppreſſed Innocency (having broken the moſt inſolent pride of the Enemy) will alſo in his own due time, be preſent with, and powerfully deliver thoſe, who about the ſame time, have ſuffered the ſame Injuries, and been wrongfully afflicted with others. To him be praiſe and glory for ever and ever.</p>
+               </div>
+            </div>
+            <div type="document">
+               <head>An Authentique Copy OF THE ASSECURATION</head>
+               <p>Given unto his Highneſſe the Duke of <hi>Curland,</hi> by the Commander of the Swediſh Forces in <hi>Livonia,</hi> Generall <hi>Douglas</hi> (after the late Renewing, and Solemne Confirmation of the formerly Concluded perpetual Neutrality, betwixt the King of <hi>Sweden</hi> and his ſaid Highneſſe) in the Name of the ſaid King, under his own hand and Seal, which not<g ref="char:EOLhyphen"/>withſtanding, after the Duke had given a vaſt Summe of Money, and great ſtore of Proviſions unto the ſaid <hi>Douglas;</hi> and ſo on his part, had performed all and every the Particulars of the ſaid (enforced) Covenant of Renovation, was imme<g ref="char:EOLhyphen"/>diately moſt unworthily violated by him, by falling
+<pb n="15" facs="tcp:34050:9"/>upon, and ſeizing his Highneſſes Perſon and Fami<g ref="char:EOLhyphen"/>ly, in manner as the Precedent Paper doth largely relate.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>By me <hi>Robert Douglas,</hi> Privy-Coun<g ref="char:EOLhyphen"/>ſellor, General Field Marſhall, and Counſellor of War to his Majeſty of <hi>Sweden,</hi> Earl of <hi>Schoning,</hi> Lord of <hi>Schelby,</hi> &amp;c.</head>
+                     <p>VVHereas for the Subſiſtance of his Majeſty of <hi>Sweden,</hi> my moſt gracious King and Maſter's Army, a conſiderable quantity both of Money and Pro<g ref="char:EOLhyphen"/>viſions hath been anew Promiſed, Granted, and Allow<g ref="char:EOLhyphen"/>ed by his Princely Highneſſe, the Duke of <hi>Curland,</hi> his Council and States, for his Highneſſe Dukedomes, the <hi>Stift Pylten,</hi> and whole Territories, witneſſe his Highneſſe Reverſe given for that purpoſe. I therefore, in the Name of my ſaid moſt gracious King, do in liew there<g ref="char:EOLhyphen"/>of, faithfully Promiſe, Engage, and fully Aſſure the ſaid Duke, that his Highneſſe, with his whole Countrey and Subjects, as alſo the <hi>Stift Pylten</hi> (none, beſides thoſe who have made themſelves unworthy of the ſaid Benefit, excepted) ſhall remain fully Aſſured of, and be ſecured in the Neutrality formerly Granted his Highneſſe by his ſaid Royal Majeſty; as alſo be wholly freed of all man<g ref="char:EOLhyphen"/>ner of Hoſtile Attentations, Invaſions, Free Quarterings, Contributions, and all other Executions, Robberies, and Depredations whatſoever, <hi>&amp;c.</hi>
+                     </p>
+                     <closer>
+                        <dateline>In Teſtimony whereof, I have hereunto put my own hand and Seal, <date>this 19<hi rend="sup">th</hi> of <hi>September,</hi> 1658.</date>
+                        </dateline> 
+                        <hi>L. S.</hi>
+                        <signed>R. Douglas.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
